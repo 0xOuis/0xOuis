@@ -20,17 +20,17 @@ Computer Science Engineering and Business Management dual-degree student at **EN
 
 ### 🚀 Featured Projects
 
-#### 🏎️ **[GrandPrix — Autonomous Racing Pilot](https://github.com/votre-username/GrandPrix)**
+#### 🏎️ **[GrandPrix — Autonomous Racing Pilot](https://github.com/0xOuis/GrandPrix-Autonomous-Racing-Pilot)
 An autonomous racing agent written in C, integrated with a Qt/C++ race simulator.
 * Engineered an A* pathfinding algorithm with a custom heuristic incorporating vehicle inertia, velocity projection, and fuel constraints.
 * Implemented a binary min-heap priority queue for efficient state retrieval and real-time trajectory validation for collision avoidance.
 
-#### 🎨 **[Color Histogram & Image Quantization in C](https://github.com/votre-username/color-histogram-c)**
+#### 🎨 **[Color Histogram & Image Quantization in](https://github.com/0xOuis/Image_quantization))**
 A memory-efficient RGB color histogram and quantization tool for PPM images.
 * Optimized memory usage by replacing naive 3D arrays with a 256×256 array of linked lists.
 * Developed a popularity-based color quantization algorithm mapping pixels to K dominant colors with a custom CLI visualization tool.
 
-#### 🗂️ **[Directory Database Management System](https://github.com/votre-username/directory-db)**
+#### 🗂️ **[Directory Database Management System]
 A robust directory database management application written in C.
 * Implemented core CRUD operations with a structured record-storage system.
 * Focused on strict input validation to prevent buffer overflows and ensure data integrity.
