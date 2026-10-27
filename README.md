@@ -20,7 +20,7 @@ Computer Science Engineering and Business Management dual-degree student at **EN
 
 ### 🚀 Featured Projects
 
-#### 🏎️ **[GrandPrix — Autonomous Racing Pilot](https://github.com/0xOuis/GrandPrix-Autonomous-Racing-Pilot)
+#### 🏎️ **[GrandPrix — Autonomous Racing Pilot](https://github.com/0xOuis/GrandPrix-Autonomous-Racing-Pilot)**
 An autonomous racing agent written in C, integrated with a Qt/C++ race simulator.
 * Engineered an A* pathfinding algorithm with a custom heuristic incorporating vehicle inertia, velocity projection, and fuel constraints.
 * Implemented a binary min-heap priority queue for efficient state retrieval and real-time trajectory validation for collision avoidance.
